@@ -1,0 +1,257 @@
+1. Wchodzenie na jezdnie bezposrednio przed jadacy pojazd na przejsciach dla pieszych	50
+2. Wchodzenie na jezdnie bezposrednio przed jadacy pojazd w miejscach innych niz przejscia dla pieszych	100
+3. Wchodzenie na jezdnie spoza pojazdu lub innej przeszkody ograniczajacej widocznosc drogi	100
+4. Przechodzenie przez jezdnie w miejscu, w którym urzadzenia zabezpieczajace lub przeszkoda oddzielaja droge dla pieszych albo chodnik od jezdni	50
+5. Niestosowanie sie do znaków drogowych dotyczacych ruchu pieszych	50
+6. Przechodzenie przez jezdnie w miejscach o ograniczonej widocznosci drogi na obszarze zabudowanym	50
+7. Przechodzenie przez jezdnie w miejscach o ograniczonej widocznosci drogi na obszarze niezabudowanym	100
+8. Zwalnianie kroku lub zatrzymywanie sie bez uzasadnionej potrzeby podczas przechodzenia przez jezdnie lub torowisko	50
+9. Przebieganie przez jezdnie	50
+10. Chodzenie po torowisku	50
+11. Wchodzenie na torowisko, gdy zapory lub pólzapory sa opuszczone lub rozpoczeto ich opuszczanie	100
+12. Naruszenie obowiazku korzystania przez pieszego z chodnika lub drogi dla pieszych, a w razie ich braku - z pobocza	50
+13. Naruszenie przez pieszego idacego po poboczu lub jezdni obowiazku poruszania sie po lewej stronie drogi	50
+14. Naruszenie przez pieszych obowiazku poruszania sie po jezdni jeden za drugim	50
+15. Naruszenie obowiazku korzystania z przejsc dla pieszych podczas przechodzenia przez jezdnie lub torowisko	50
+16. Korzystanie z dróg niedostepnych dla pieszych	50
+17. Naruszenie przepisów dotyczacych ruchu pieszych na drogach dla rowerów	50
+17a. Niestosowanie sie do obowiazku uzywania elementów odblaskowych w sposób widoczny dla innych uczestników ruchu drogowego przez pieszego poruszajacego sie po drodze po zmierzchu poza obszarem zabudowanym, ...	50,100
+18. Zajmowanie wiecej niz jednego, wyznaczonego na jezdni, pasa ruchu	150
+19. Naruszenie obowiazku poruszania sie po poboczu przez kierujacego pojazdem zaprzegowym, rowerem, wózkiem rowerowym, motorowerem, wózkiem recznym albo osobe prowadzaca pojazd napedzany silnikiem	100
+20. Nieustapienie miejsca nadjezdzajacemu pojazdowi szynowemu przez kierujacego pojazdem	250
+21. Niekorzystanie z pasów bezpieczenstwa podczas jazdy	100
+22. Przewozenie dziecka w pojezdzie poza fotelikiem ochronnym lub innym urzadzeniem do przewozenia dzieci	150
+23. Przewozenie dziecka w pojezdzie w foteliku ochronnym, siedzacego tylem do kierunku jazdy na przednim siedzeniu pojazdu wyposazonego w poduszke powietrzna dla pasazera	150
+24. Kierowanie pojazdem przewozacym pasazerów niekorzystajacych z pasów bezpieczenstwa	100
+25. Nieuzywanie kasku ochronnego odpowiadajacego wlasciwym warunkom technicznym podczas jazdy motocyklem, czterokolowcem lub motorowerem	100
+26. Kierowanie motocyklem, czterokolowcem lub motorowerem przewozacym pasazera nieuzywajacego kasku ochronnego odpowiadajacego wlasciwym warunkom technicznym	100
+27. Przewozenie osoby w stanie nietrzezwosci, stanie po uzyciu alkoholu lub srodka dzialajacego podobnie do alkoholu na rowerze lub motorowerze albo motocyklu poza bocznym wózkiem	150
+28. Korzystanie podczas jazdy z telefonu wymagajace trzymania sluchawki lub mikrofonu w reku przez kierujacego pojazdem	200
+29. Wjezdzanie na pas miedzy jezdniami	100
+30. Niedopelnienie obowiazków przez uczestników wypadku poprzez nieusuniecie pojazdu z miejsca wypadku, w którym nie bylo zabitego lub rannego	150
+31. Nieuzywanie elementów odblaskowych w sposób widoczny dla innych uczestników ruchu przez osobe wykonujaca roboty lub inne czynnosci na drodze	150
+31. Przekroczenie dopuszczalnej predkosci o 31-40 km/h	200,250,300
+32. Brak oznaczenia lub niewlasciwe oznaczenie pojazdów do nauki jazdy lub przeprowadzania egzaminu panstwowego	300
+33. Nieustapienie pierwszenstwa innemu pojazdowi lub uczestnikowi ruchu podczas wlaczania sie do ruchu	300
+34. Uniemozliwienie wlaczenia sie do ruchu autobusowi (trolejbusowi) sygnalizujacemu zamiar zmiany pasa ruchu lub wjechania z zatoki na jezdnie z oznaczonego przystanku na obszarze zabudowanym	200
+35. Naruszenie obowiazków przez kierujacego pojazdem zblizajacego sie do miejsca postoju autobusu szkolnego	200
+36. Przekroczenie dopuszczalnej predkosci do 10 km/h	50
+37. Przekroczenie dopuszczalnej predkosci o 11-20 km/h	50,100
+38. Przekroczenie dopuszczalnej predkosci o 21-30 km/h	100,150,200
+40. Przekroczenie dopuszczalnej predkosci o 41-50 km/h	300,350,400
+41. Przekroczenie dopuszczalnej predkosci o 51 km/h i wiecej	400,450,500
+42. Hamowanie w sposób powodujacy zagrozenie bezpieczenstwa ruchu lub jego utrudnienie	100,150,200,250,300
+43. Jazda z predkoscia utrudniajaca ruch innym kierujacym	50,100,150,200
+44. Niezachowanie przez kierujacych pojazdami objetymi indywidualnym ograniczeniem predkosci albo pojazdami lub zespolami pojazdów o dlugosci wiekszej niz 7 metrów niezbednego odstepu od pojazdów znajdujacych sie przed nimi	200
+46. Zawracanie w warunkach, w których mogloby to zagrazac bezpieczenstwu ruchu lub ruch ten utrudnic	200,250,300,350,400
+47. Zawracanie w tunelach, na mostach i wiaduktach oraz na drogach jednokierunkowych	200
+48. Utrudnianie lub tamowanie ruchu poprzez niesygnalizowanie lub bledne sygnalizowanie manewru	200
+49. Nieodpowiednie ustawienie pojazdu na jezdni przed skreceniem	150
+50. Nieustapienie pierwszenstwa przez kierujacego pojazdem zmieniajacego zajmowany pas ruchu	250
+51. Omijanie pojazdu, który jechal w tym samym kierunku, lecz zatrzymal sie w celu ustapienia pierwszenstwa pieszemu	500
+52. Omijanie pojazdu oczekujacego na otwarcie ruchu przez przejazd kolejowy w sytuacji, w której wymagalo to wjechania na czesc jezdni przeznaczona dla przeciwnego kierunku ruchu	250
+53. Utrudnianie ruchu podczas cofania	50,100,150,200
+54. Naruszenie zakazów cofania w tunelach, na mostach i wiaduktach	200
+55. Wyprzedzanie na przejsciach dla pieszych lub bezposrednio przed nimi	200
+56. Wyprzedzanie na przejazdach dla rowerzystów lub bezposrednio przed nimi	200
+57. Naruszenie przez kierujacego obowiazku upewnienia sie przed wyprzedzaniem, czy ma odpowiednia widocznosc i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu	250
+58. Naruszenie przez kierujacego obowiazku upewnienia sie przed wyprzedzaniem, czy kierujacy jadacy za nim nie rozpoczal manewru wyprzedzania	250
+59. Naruszenie zakazu wyprzedzania pojazdu silnikowego przy dojezdzaniu do wierzcholka wzniesienia	300
+60. Naruszenie zakazu wyprzedzania na zakretach oznaczonych znakami ostrzegawczymi	300
+61. Naruszenie zakazu wyprzedzania na skrzyzowaniach	300
+62. Wyprzedzanie na przejazdach kolejowych albo tramwajowych i bezposrednio przed nimi	300
+63. Wyprzedzanie bez zachowania bezpiecznego odstepu od wyprzedzanego pojazdu lub uczestnika ruchu	300
+63a. Wyprzedzanie z niewlasciwej strony	200
+64. Zwiekszanie predkosci przez kierujacego pojazdem wyprzedzanym	350
+65. Niestosowanie sie przez kierujacego pojazdem wolnobieznym, ciagnikiem rolniczym lub pojazdem bez silnika do obowiazku zjechania jak najbardziej na prawo w celu ulatwienia wyprzedzenia	100
+66. Wyprzedzanie pojazdu uprzywilejowanego na obszarze zabudowanym	300
+67. Nieustapienie przez kierujacego pojazdem pierwszenstwa pieszym znajdujacym sie na przejsciu	350
+68. Nieustapienie przez kierujacego pojazdem pierwszenstwa pieszym na skrzyzowaniu przy skrecaniu w droge poprzeczna	350
+69. Nieustapienie przez kierujacego pojazdem pierwszenstwa pieszym przy przejezdzaniu przez chodnik lub droge dla pieszych albo podczas jazdy po placu, na którym ruch pieszych i pojazdów odbywa sie po tej samej powierzchni	350
+70. Nieustapienie przez kierujacego pojazdem pierwszenstwa rowerowi znajdujacemu sie na przejezdzie dla rowerzystów	350
+70a. Nieustapienie przez kierujacego pojazdem, który skreca w droge poprzeczna, pierwszenstwa rowerzyscie jadacemu na wprost po jezdni, pasie ruchu dla rowerów, drodze dla rowerów lub innej czesci drogi, która zamierza opuscic	350
+71. Nieustapienie przez kierujacego pojazdem pierwszenstwa rowerowi przy przejezdzaniu przez droge dla rowerów poza jezdnia	350
+72. Niezatrzymanie pojazdu w celu umozliwienia przejscia przez jezdnie osobie niepelnosprawnej, uzywajacej specjalnego znaku lub osobie o widocznej ograniczonej sprawnosci ruchowej	350
+73. Naruszenie obowiazku usuniecia pojazdu unieruchomionego na przejezdzie kolejowym (tramwajowym) lub ostrzegania kierujacych pojazdami szynowymi w sytuacji, w której usuniecie pojazdu nie bylo mozliwe	300
+74. Naruszenie obowiazku zatrzymania pojazdu w takim miejscu i na taki czas, aby umozliwic pieszym swobodny dostep do pojazdów komunikacji publicznej - w przypadku braku wysepki dla pasazerów na przystanku	100
+75. Naruszenie zakazu objezdzania opuszczonych zapór lub pólzapór oraz wjezdzania na przejazd, jesli opuszczanie ich zostalo rozpoczete lub podnoszenie ich nie zostalo zakonczone	300
+76. Naruszenie zakazu wjezdzania na przejazd, jesli po jego drugiej stronie nie ma miejsca do kontynuowania jazdy	300
+77. Jazda wzdluz po chodniku lub przejsciu dla pieszych pojazdem silnikowym	250
+78. Jazda wzdluz po chodniku lub przejsciu dla pieszych innym pojazdem niz pojazd silnikowy	100
+79. Naruszenie przez kierujacego zakazu wjezdzania na skrzyzowanie, jesli na skrzyzowaniu lub za nim nie ma miejsca do kontynuowania jazdy	300
+80. Niewlaczenie przez kierujacego pojazdem wymaganych swiatel w czasie jazdy w warunkach zmniejszonej przejrzystosci powietrza	200
+81. Naruszenie przez kierujacego pojazdem innym niz silnikowy zakazu wyprzedzania innych pojazdów w czasie jazdy w warunkach zmniejszonej przejrzystosci powietrza oraz obowiazku korzystania z pobocza drogi ...	100
+82. Naduzywanie sygnalów dzwiekowych lub swietlnych	100
+83. Uzywanie sygnalów dzwiekowych na obszarze zabudowanym	100
+84. Uzywanie tylnych swiatel przeciwmglowych przy normalnej przejrzystosci powietrza	100
+85. Holowanie pojazdu, w którym znajduje sie kierujacy niemajacy wymaganych uprawnien do kierowania tym pojazdem	250
+86. Holowanie pojazdu na polaczeniu sztywnym, jezeli nie jest sprawny co najmniej jeden uklad hamulcowy, albo na polaczeniu gietkim, jezeli nie sa sprawne dwa uklady hamulcowe	250
+87. Holowanie pojazdu o niesprawnym ukladzie kierowniczym lub niesprawnych hamulcach	250
+88. Holowanie pojazdu na polaczeniu gietkim, jezeli w pojezdzie tym dzialanie ukladu hamulcowego uzaleznione jest od pracy silnika, a silnik jest unieruchomiony	250
+89. Holowanie wiecej niz jednego pojazdu, z wyjatkiem pojazdu czlonowego	250
+90. Holowanie pojazdem z przyczepa (naczepa)	250
+91. Naruszenie przez kierujacego warunków holowania poprzez niewlaczenie w pojezdzie holujacym swiatel mijania	100
+92. Naruszenie przez kierujacego warunków holowania poprzez nieprawidlowe polaczenie pojazdu holowanego z holujacym	150
+93. Naruszenie przez kierujacego warunków holowania poprzez brak oznaczenia lub niewlasciwe oznaczenie pojazdu holowanego	150
+94. Naruszenie przez kierujacego warunków holowania poprzez niezachowanie wlasciwej odleglosci miedzy pojazdami holowanym a holujacym	100
+95. Naruszenie przez kierujacego warunków holowania poprzez niewlasciwe oznakowanie polaczenia miedzy pojazdami (holu) albo brak takiego oznakowania	50
+96. Naruszenie przez kierujacego rowerem obowiazku przewozenia dziecka do lat 7 na dodatkowym siodelku	50
+96a. Naruszenie przez kierujacego rowerem obowiazku korzystania z drogi dla rowerów lub pasa ruchu dla rowerów, jesli sa one wyznaczone dla kierunku, w którym sie porusza lub zamierza skrecic	50
+97. Nieustapienie miejsca pieszym przez kierujacego rowerem korzystajacego z drogi dla rowerów i pieszych	50
+97a. Nieopuszczenie przez kierujacego rowerem sluzy rowerowej, kiedy zaistnieje mozliwosc kontynuowania jazdy w zamierzonym kierunku	50
+98. Naruszenie przez kierujacego rowerem lub motorowerem zakazu jazdy po jezdni obok innego uczestnika ruchu	50
+98a. Utrudnianie poruszania sie innym uczestnikom ruchu przez kierujacego rowerem jadacego po jezdni obok innego roweru lub motoroweru	200
+99. Naruszenie przez kierujacego rowerem lub motorowerem zakazu jazdy bez trzymania co najmniej jednej reki na kierownicy oraz nóg na pedalach lub podnózkach	50
+100. Naruszenie przez kierujacego rowerem lub motorowerem zakazu czepiania sie pojazdów	100
+103. Naruszenie przez kierujacego rowerem przepisów o korzystaniu z chodnika lub drogi dla pieszych	50
+104. Naruszenie przez kierujacego pojazdem zaprzegowym zakazu jazdy obok innego uczestnika ruchu na jezdni	100
+105. Naruszenie przez kierujacego pojazdem zaprzegowym zakazu pozostawiania pojazdu niezabezpieczonego przed ruszeniem	100
+106. Naruszenie przez kierujacego pojazdem zaprzegowym zakazu jazdy pojazdami na plozach bez dzwonków lub grzechotek	50
+107. Naruszenie przez jezdzca lub poganiacza obowiazku korzystania z okreslonej drogi lub czesci drogi	100
+108. Pedzenie zwierzat plochliwych, niesprawnych fizycznie lub niedajacych soba kierowac	50
+109. Pedzenie zwierzat bez odpowiedniego nadzoru, a pojedynczych bez uwiezi	50
+110. Naruszenie przez poganiacza obowiazku poruszania sie po lewej stronie pedzonych zwierzat	50
+111. Naruszenie przez poganiacza obowiazku uzywania, w okresie niedostatecznej widocznosci, odpowiedniego oswietlenia	50
+112. Naruszenie przez poganiacza zakazu pedzenia zwierzat po okreslonych drogach	50
+113. Naruszenie przez poganiacza zakazu przepedzania zwierzat w poprzek drogi w miejscu niewidocznym na dostateczna odleglosc	50
+114. Naruszenie przez poganiacza zakazu zatrzymywania zwierzat na jezdni	50
+115. Naruszenie przez poganiacza zakazu dopuszczania do zajmowania przez zwierzeta wiecej niz prawej polowy jezdni albo drogi dla pieszych lub rowerów	50
+116. Naruszenie nakazu, aby w czasie postoju na drodze poza obszarem zabudowanym pojazd zaprzegowy znajdowal sie poza jezdnia	50
+117. Pozostawienie pojazdu zaprzegowego na postoju bez zachowania srodków ostroznosci niezbednych do unikniecia wypadku	50
+118. Naruszenie wprowadzonych przez rade powiatu zakazów pedzenia zwierzat	50
+119. Naruszenie zakazu zawracania na autostradzie lub drodze ekspresowej	300
+120. Cofanie na autostradzie lub drodze ekspresowej	300
+121. Wjazd na autostrade lub droge ekspresowa pojazdem, dla ruchu którego drogi te nie sa przeznaczone	250
+122. Zatrzymanie lub postój pojazdu na autostradzie lub drodze ekspresowej w innych miejscach niz wyznaczone w tym celu	300
+123. Nieusuniecie z jezdni pojazdu unieruchomionego z przyczyn technicznych oraz nieostrzeganie innych uczestników ruchu	300
+124. Niesygnalizowanie lub niewlasciwe sygnalizowanie postoju pojazdu silnikowego z powodu uszkodzenia lub wypadku na autostradzie lub drodze ekspresowej	300
+125. Zatrzymanie lub postój pojazdu w warunkach, w których nie jest on z dostatecznej odleglosci widoczny dla innych kierujacych lub powoduje utrudnienie ruchu	100,150,200,250,300
+126. Niezachowanie wymaganego odstepu za poprzedzajacym pojazdem przez kierujacego pojazdem w tunelu, podczas zatrzymania wynikajacego z warunków lub przepisów ruchu drogowego	100
+127. Zatrzymywanie pojazdu na przejezdzie kolejowym lub tramwajowym, na skrzyzowaniu oraz w odleglosci mniejszej niz 10 m od przejazdu lub skrzyzowania	300
+128. Zatrzymywanie pojazdu na przejsciu dla pieszych lub na przejezdzie dla rowerzystów oraz w odleglosci mniejszej niz 10 m przed tym przejsciem lub przejazdem, a na drodze dwukierunkowej o dwóch pasach ruchu - takze za nimi	100,150,200,250,300
+129. Zatrzymywanie pojazdu w tunelu, na moscie lub na wiadukcie	200
+130. Zatrzymywanie pojazdu na jezdni wzdluz linii ciaglej oraz w poblizu jej punktów krancowych, jezeli kierujacy pojazdami wielosladowymi sa zmuszeni do najezdzania na te linie	100
+131. Zatrzymywanie pojazdu na jezdni obok linii przerywanej wyznaczajacej krawedz jezdni oraz na jezdni lub na poboczu obok linii ciaglej wyznaczajacej krawedz jezdni	100
+132. Zatrzymywanie pojazdu w odleglosci mniejszej niz 10 m od przedniej strony znaku lub sygnalu drogowego, jezeli pojazd je zaslania	100
+133. Zatrzymywanie pojazdu przy lewej krawedzi jezdni	100
+134. Zatrzymywanie pojazdu na pasie miedzy jezdniami	100
+135. Zatrzymywanie pojazdu w odleglosci mniejszej niz 15 m od slupka lub tablicy oznaczajacej przystanek, a na przystanku z zatoka - na calej jej dlugosci	100
+136. Zatrzymywanie pojazdu w odleglosci mniejszej niz 15 m od punktów krancowych wysepki, jezeli jezdnia z prawej jej strony ma tylko jeden pas ruchu	100
+137. Zatrzymywanie pojazdu na drodze dla rowerów, pasie ruchu dla rowerów lub w sluzie rowerowej, z wyjatkiem roweru	100
+138. Brak sygnalizowania lub niewlasciwe sygnalizowanie postoju pojazdu z powodu uszkodzenia lub wypadku	150
+139. Naruszenie warunków dopuszczalnosci zatrzymania lub postoju pojazdu na chodniku	100
+140. Naruszenie obowiazku zatrzymania pojazdu na jezdni jak najblizej jej krawedzi i równolegle do niej	100
+141. Naruszenie obowiazku umieszczania pojazdu (z wyjatkiem pojazdu zaprzegowego) poza jezdnia w czasie postoju na drodze poza obszarem zabudowanym	150,200,250,300
+142. Naruszenie zakazu postoju w miejscach utrudniajacych wjazd lub wyjazd	100
+143. Naruszenie zakazu postoju w miejscach utrudniajacych dostep do innego prawidlowo zaparkowanego pojazdu lub wyjazd tego pojazdu	100
+144. Naruszenie zakazu postoju przed lub za przejazdem kolejowym na odcinku od przejazdu do slupka wskaznikowego z jedna kreska	100
+145. Naruszenie zakazu postoju w strefie zamieszkania w miejscach innych niz wyznaczone	100
+146. Naruszenie zakazu postoju na obszarze zabudowanym pojazdu lub zespolu pojazdów o dopuszczalnej masie calkowitej przekraczajacej 16 ton lub o dlugosci przekraczajacej 12 m	200,250,300
+147. Jazda bez wymaganych swiatel od zmierzchu do switu	200
+148. Jazda bez wymaganych swiatel od switu do zmierzchu	100
+149. Jazda bez wymaganych swiatel pojazdami niewyposazonymi w swiatla mijania, drogowe lub do jazdy dziennej	100
+150. Jazda bez wymaganych swiatel w tunelu, niezaleznie od pory doby	200
+151. Nieuzywanie wymaganego oswietlenia podczas zatrzymania lub postoju w warunkach niedostatecznej widocznosci	150,200,250,300
+152. Korzystanie ze swiatel drogowych w sposób niezgodny z przepisami	200
+153. Naruszenie warunków dopuszczalnosci uzywania przednich swiatel przeciwmglowych	100
+154. Uzywanie „szperacza” podczas jazdy	100
+155. Bezpodstawne korzystanie z ulatwien w ruchu drogowym przez kierujacego pojazdem uprzywilejowanym	300
+156. Uzywanie pojazdu w sposób zagrazajacy bezpieczenstwu osoby znajdujacej sie w pojezdzie lub poza nim	200
+157. Zakrywanie swiatel oraz urzadzen sygnalizacyjnych	200
+158. Zakrywanie tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny byc widoczne	100
+159. Oddalenie sie kierujacego od pojazdu, gdy silnik jest w ruchu	50
+160. Uzywanie opon z umieszczonymi w nich na trwale elementami przeciwslizgowymi	100
+161. Uzywanie lancuchów przeciwslizgowych na oponach na drodze niepokrytej sniegiem	100
+162. Wjezdzanie miedzy jadace w kolumnie rowery lub wózki rowerowe	200
+163. Naruszenie przepisów dotyczacych przewozu dzieci lub mlodziezy przez kierujacego pojazdem przewozacym dzieci lub mlodziez	200
+164. Naruszenie przepisów dotyczacych przewozu dzieci lub mlodziezy przez oznaczenie pojazdu tablicami informujacymi, ze przewozone sa nim dzieci lub mlodziez, w czasie gdy dzieci lub mlodziez nie sa przewozone	50
+165. Naruszenie przepisów dotyczacych przewozu dzieci lub mlodziezy przez kierujacego innym pojazdem	200
+165a. Niedopelnienie przez kierujacego autobusem szkolnym obowiazku wlaczenia swiatel awaryjnych podczas wsiadania lub wysiadania dzieci	200
+165b. Niedopelnienie przez kierujacego autobusem szkolnym obowiazku zdjecia, zasloniecia lub zlozenia tablicy z napisem „autobus szkolny” i jezeli sa przewozone inne osoby lub nie przewozi sie zadnych osób	50
+166. Naruszenie przepisów dotyczacych przewozu osób niepelnosprawnych przez kierujacego pojazdem przewozacym takie osoby	200
+167. Niezachowanie szczególnej ostroznosci przez kierujacego pojazdem, który omija pojazd przeznaczony do przewozu osób niepelnosprawnych	200
+168. Naruszenie przepisów o obowiazku wysylania przez pojazdy zóltych sygnalów blyskowych	200
+169. Bezpodstawne uzywanie zóltego sygnalu blyskowego	100
+170. Ozdabianie tablic rejestracyjnych oraz umieszczanie z przodu lub z tylu pojazdu znaków, napisów lub przedmiotów ograniczajacych czytelnosc tych tablic	50
+171. Uzywanie pojazdu na obszarze zabudowanym w sposób powodujacy uciazliwosci zwiazane z nadmierna emisja spalin do srodowiska lub nadmiernym halasem	50,100,150,200,250,300
+172. Nieoznaczenie pojazdu zarejestrowanego za granica znakiem okreslajacym panstwo rejestracji	100
+173. Umieszczenie na pojezdzie znaku okreslajacego inne panstwo niz to, w którym pojazd zostal zarejestrowany	100
+174. Pozostawienie pracujacego silnika podczas postoju na obszarze zabudowanym	100
+175. Umieszczenie na pojezdzie ladunku w sposób zaslaniajacy swiatla lub urzadzenia sygnalizacyjne	200
+176. Umieszczenie na pojezdzie ladunku w sposób zaslaniajacy tablice rejestracyjne lub inne tablice albo znaki, w które pojazd jest wyposazony	100
+177. Przewozenie ladunku nieoznaczonego lub oznaczonego w niewlasciwy sposób	150
+178. Niezabezpieczenie urzadzen sluzacych do mocowania ladunku przed rozluznieniem sie, swobodnym zwisaniem lub spadnieciem podczas jazdy	200
+179. Naruszenie przepisów o przewozie ladunków sypkich	150
+180. Ciagniecie przyczepy o rzeczywistej masie calkowitej wiekszej niz dopuszczalna w odniesieniu do okreslonego rodzaju pojazdu ciagnacego	100,150,200,250,300
+181. Przewóz osób pojazdem nieprzeznaczonym lub nieprzystosowanym do tego celu (100 zl za kazda osobe przewozona w niewlasciwy sposób)	100,200,300,400,500
+182. Przewóz osób w liczbie przekraczajacej liczbe miejsc okreslonych w dowodzie rejestracyjnym pojazdu albo wynikajacych z konstrukcyjnego przeznaczenia pojazdu niepodlegajacego rejestracji (100 zl za kazda osobe ponad okreslona liczbe)	100,200,300,400,500
+183. Naruszenie warunków przewozu osób w przyczepach	100
+184. Naruszenie warunków dopuszczalnosci przewozu osób samochodem ciezarowym poza kabina kierowcy	100
+185. Naruszenie zakazu palenia tytoniu lub spozywania pokarmów w czasie jazdy	50
+186. Kierowanie pojazdem silnikowym, z wylaczeniem czterokolowca lekkiego, lub tramwajem przez osobe niemajaca uprawnienia do kierowania pojazdami	500
+187. Kierowanie pojazdem silnikowym, z wylaczeniem czterokolowca lekkiego, lub tramwajem przez osobe niemajaca uprawnienia wymaganego dla danego rodzaju pojazdu	300
+187a. Kierowanie motorowerem lub czterokolowcem lekkim przez osobe niemajaca do tego uprawnienia	200
+188. Kierowanie bez uprawnienia rowerem, wózkiem rowerowym lub pojazdem zaprzegowym	100
+189. Kierowanie pojazdem przez osobe nieposiadajaca przy sobie wymaganych dokumentów (50 zl za brak kazdego z wymaganych dokumentów)	50,100,150,200,250
+189a. Kierowanie na drodze publicznej, w strefie zamieszkania lub w strefie ruchu pojazdem innym niz mechaniczny przez osobe znajdujaca sie w stanie nietrzezwosci lub pod wplywem srodka dzialajacego podobnie do alkoholu	500
+189b. Kierowanie na drodze publicznej, w strefie zamieszkania lub w strefie ruchu pojazdem innym niz mechaniczny przez osobe znajdujaca sie w stanie po uzyciu alkoholu lub podobnie dzialajacego srodka	300,350,400,450,500
+190. Samowolne umieszczanie, usuwanie, wlaczanie, wylaczanie, zmiana polozenia lub zaslanianie znaku, sygnalu drogowego oraz urzadzenia ostrzegawczo-zabezpieczajacego lub kontrolnego	400
+191. Uzywanie pojazdu niszczacego nawierzchnie drogi	300
+192. Dopuszczenie przez wlasciciela, posiadacza, uzytkownika lub prowadzacego pojazd do prowadzenia pojazdu na drodze publicznej, w strefie zamieszkania lub strefie ruchu przez osobe niemajaca wymaganych uprawnien	300
+193. Dopuszczenie przez wlasciciela, posiadacza, uzytkownika lub prowadzacego pojazd do jazdy na drodze publicznej, w strefie zamieszkania lub w strefie ruchu pojazdu nienalezycie zaopatrzonego w wymagane urzadzenia ...	50,100,150,200
+194. Dopuszczenie przez wlasciciela, posiadacza, uzytkownika lub prowadzacego pojazd do jazdy na drodze publicznej, w strefie zamieszkania lub w strefie ruchu pojazdu pomimo braku wymaganych dokumentów stwierdzajacych dopuszczenie pojazdu do ruchu	50
+195. Zasmiecanie lub zanieczyszczanie drogi publicznej	50,100,150,200
+196. Samowolne umieszczanie na drodze znaków, napisów lub symboli	100
+197. Wypasanie zwierzecia gospodarskiego w pasie drogowym	50
+198. Uchylanie sie od obowiazku utrzymania w nalezytym stanie zjazdów z dróg publicznych do przyleglych nieruchomosci	200
+199. Uchylanie sie od obowiazku oczyszczania i usuwania blota, kurzu, sniegu lub lodu z odcinków dróg publicznych o twardej nawierzchni przechodzacych przez obszary o zabudowie ciaglej lub skupionej poza miastami lub osiedlami	200
+200. Naruszenie przepisów w sprawie okresowych ograniczen oraz zakazu ruchu niektórych rodzajów pojazdów na drogach	200,250,300,350,400,450,500
+200a. Poslugiwanie sie przez osobe do tego nieuprawniona karta parkingowa, o której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym	300
+200b. Poslugiwanie sie przez osobe do tego nieuprawniona karta parkingowa i jednoczesnie niestosowanie sie do znaków drogowych: B-3 „zakaz wjazdu pojazdów silnikowych, z wyjatkiem motocykli jednosladowych”, B-3a „zakaz wjazdu autobusów” ...	550
+200c. Poslugiwanie sie przez osobe do tego nieuprawniona karta parkingowa i jednoczesnie niestosowanie sie do znaków drogowych: B-10 „zakaz wjazdu motorowerów”	400
+200d. Poslugiwanie sie przez osobe do tego nieuprawniona karta parkingowa i jednoczesnie niestosowanie sie do znaków drogowych: B-35 „zakaz postoju”, B-37 lub B-38 „zakaz postoju w dni ...”	400
+200e. Poslugiwanie sie przez osobe do tego nieuprawniona karta parkingowa i jednoczesnie niestosowanie sie do znaków drogowych: B-39 „strefa ograniczonego postoju”	400
+200f. Poslugiwanie sie przez osobe do tego nieuprawniona karta parkingowa i jednoczesnie niestosowanie sie do znaków drogowych: D-18 „parking” lub D-18b „parking zadaszony”, z umieszczona pod znakiem tabliczka T-29 ...	800
+200g. Poslugiwanie sie przez osobe do tego nieuprawniona karta parkingowa i jednoczesnie niestosowanie sie do znaków drogowych: P-18 „stanowisko postojowe” i P-24 „miejsce dla pojazdu osoby niepelnosprawnej” albo P-20 „koperta” ...	800
+201. Niestosowanie sie do znaków: B-3 „zakaz wjazdu pojazdów silnikowych, z wyjatkiem motocykli jednosladowych”, B-3a „zakaz wjazdu autobusów”, B-4 „zakaz wjazdu motocykli”, B6 „zakaz wjazdu ciagników rolniczych” lub B-7 ...	250
+202. Niestosowanie sie do znaków: B-13 do B-14 „zakaz wjazdu...”	250
+203. Niestosowanie sie do znaków: C-12 „ruch okrezny”	250
+204. Niestosowanie sie do znaków: B-15 „zakaz wjazdu pojazdów o szerokosci ponad ... m”, B-16 „zakaz wjazdu pojazdów o wysokosci ponad ... m” lub B-17 „zakaz wjazdu pojazdów o dlugosci ponad ... m”	150
+204a. Niestosowanie sie do znaków: B-5 „zakaz wjazdu samochodów ciezarowych”, B-18 „zakaz wjazdu pojazdów o rzeczywistej masie calkowitej ponad ... t” lub B-19 „zakaz wjazdu pojazdów o nacisku osi wiekszym niz ... t”	500
+205. Niestosowanie sie do znaków: B-8 do B-12 „zakaz wjazdu...”	100
+206. Niestosowanie sie do znaków: B-29 „zakaz uzywania sygnalów dzwiekowych”	100
+207. Niestosowanie sie do znaków: B-31 „pierwszenstwo dla nadjezdzajacych z przeciwka”	100
+208. Niestosowanie sie do znaków: B-32 „stój - kontrola celna” lub jego odpowiedników	200
+209. Niestosowanie sie do znaków: B-35 „zakaz postoju”	100
+210. Niestosowanie sie do znaków: B-36 „zakaz zatrzymywania sie”	100
+211. Niestosowanie sie do znaków: B-37 lub B-38 „zakaz postoju w dni ...”	100
+212. Niestosowanie sie do znaków: B-39 „strefa ograniczonego postoju”	100
+213. Niestosowanie sie do znaków: C-1 do C-11 „nakaz jazdy...”	250
+214. Niestosowanie sie do znaków: C-13 „droga dla rowerów”	100
+215. Niestosowanie sie do znaków: C-14 „predkosc minimalna”	100
+216. Niestosowanie sie do znaków: C-17 „nakazany kierunek jazdy dla pojazdów z materialami niebezpiecznymi”	400
+217. Niestosowanie sie do znaków: BT-1 „ograniczenie predkosci”	100
+218. Niestosowanie sie do znaków: BT-3 „blokada zwrotnicy”	200
+219. Niestosowanie sie do znaków: P-2 „linia pojedyncza ciagla”	100
+220. Niestosowanie sie do znaków: P-3 „linia jednostronnie przekraczalna”	200
+221. Niestosowanie sie do znaków: P-4 „linia podwójna ciagla”	200
+222. Niestosowanie sie do znaków: P-7b „linia krawedziowa ciagla”	100
+223. Niestosowanie sie do znaków: P-17 „linia przystankowa”	100
+224. Niestosowanie sie do znaków: C-18 „nakaz uzywania lancuchów przeciwposlizgowych”	200
+225. Niestosowanie sie do znaków: P-21 „powierzchnia wylaczona”	100
+226. Niezatrzymanie pojazdu w zwiazku ze znakiem B-20 „stop”	100
+227. Niezatrzymanie pojazdu we wlasciwym miejscu w zwiazku z nadawanym sygnalem swietlnym	100
+228. Niestosowanie sie do znaków: D-11 „poczatek pasa ruchu dla autobusów” lub D-12 „pas ruchu dla autobusów” oraz P-22 „BUS”	100
+229. Niestosowanie sie do znaków: D-13 „poczatek pasa ruchu powolnego”	100
+230. Niestosowanie sie do znaków: D-18 „parking”, D-18a „parking - miejsce zastrzezone” lub D-18b „parking zadaszony”	100
+232. Niestosowanie sie do znaków: P-18 „stanowisko postojowe” i P-24 „miejsce dla pojazdu osoby niepelnosprawnej” albo P-20 „koperta” i P-24 „miejsce dla pojazdu osoby niepelnosprawnej”, umieszczonego samodzielnie bez znaku pionowego D-18, D-18a lub D-18b	500
+233. Niestosowanie sie do znaków: D-19 „postój taksówek”	100
+234. Niestosowanie sie do znaków: F-10 „kierunki na pasach ruchu” lub F-11 „kierunki na pasie ruchu” oraz P-8a „strzalka kierunkowa na wprost”, P-8b „strzalka kierunkowa do skrecania” lub P-8c „strzalka kierunkowa do zawracania”	250
+235. Niestosowanie sie do znaków: BT-4 „stop - zwrotnica eksploatowana jednostronnie”	200
+236. Niestosowanie sie do znaków: P-18 „stanowisko postojowe”, P-19 „linia wyznaczajaca pas postojowy”	100
+237. Niestosowanie sie do znaków: P-20 „koperta”	100
+238. Niestosowanie sie do sygnalów swietlnych przez wejscie na przejscie dla pieszych, jezeli sygnalizator S-5 nadaje sygnal czerwony	100
+239. Niestosowanie sie do sygnalów swietlnych przez kierujacego kolumna pieszych, jezdzca lub poganiacza	100
+240. Niestosowanie sie do sygnalów swietlnych przez kierujacego pojazdem wjezdzajacego za sygnalizator, kiedy jest to zabronione	300,350,400,450,500
+241. Niezachowanie nalezytej ostroznosci na drodze publicznej, w strefie zamieszkania lub strefie ruchu i spowodowanie zagrozenia bezpieczenstwa w ruchu drogowym	250,300,350,400,450,500
+242. Niezachowanie nalezytej ostroznosci na drodze publicznej, w strefie zamieszkania lub strefie ruchu i spowodowanie zagrozenia bezpieczenstwa w ruchu drogowym przez osobe znajdujaca sie w stanie po uzyciu alkoholu lub podobnie dzialajacego srodka	350,400,450,500

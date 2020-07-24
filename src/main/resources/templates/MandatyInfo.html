@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" th:href="@{/css/main.css}"/>
+    <title>Title</title>
+</head>
+<body>
+
+
+        <h1>Mandat:</h1>
+            <span>Wykroczenie:</span><div id="Mandat"><p id="content" th:text="${mandat.get().getOffense()}"></p>
+            <span>Cena:</span><p id="price" th:each="penaltys: ${mandat.get().getPenaltyList()}" th:text="${penaltys.getOffensePrice()} + 'zł' "></p>
+        </div>
+        <div th:if="!${comment.isEmpty()}">
+            <span th:each="comek: ${comment}" id="span1">
+                <span th:text="${comek.getUserModel().getUsername()}"></span>
+                <span th:text="${comek.getDate()}"></span>
+                </br>
+                <span id="comments"  th:text="${comek.getContext()}"></span>
+
+            </span>
+
+        </div>
+
+        <form action="#" method="post" th:action="@{/Mandaty/addComment}">
+            <input type="hidden" name="name" id="name" th:value="${user}">
+            <input type="hidden" name="id" id="id" th:value="${id}">
+            <input type="text" name="context" id="context">
+            <input type="submit" value="dodaj komentarz">
+        </form>
+
+
+
+</body>
+</html>

@@ -1,0 +1,57 @@
+body{
+    color: black;
+    margin: 0;
+}
+span{
+    margin-top: 5vh;
+    font-size: 20px;
+    margin-left: 20vw;
+    color: tomato;
+    font-weight: bold;
+}
+div#Mandat{
+    padding-top: 5vh;
+    display: block;
+    background-color: dimgray;
+    width: 100vw;
+    height: 90vh;
+    padding-top: 5vh;
+}
+p#content,p#price{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 2vh 2vh 2vh 2vh;
+}
+p#content{
+    width: 50%;
+    height: 50%;
+    font-size: 3vh;
+    margin-bottom: 5vh;
+    background-color: antiquewhite;
+}
+p#price
+{
+    background-color: antiquewhite;
+    height: 5vh;
+    width: 50%;
+    font-size: 3vh;
+}
+#comments
+{
+    display: block;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 2vh 2vh 2vh 2vh;
+}
+#span1
+{
+    margin-left: 0;
+    margin-top: 5vh;
+}

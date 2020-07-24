@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <link th:href="@{css/css.css}" rel="stylesheet"/>
+    <title>Title</title>
+</head>
+<body>
+
+<form th:action="@{/Mandaty}" method="post" action="#">
+    <label>Wykroczenie</label>
+    <input type="text" placeholder="Wykroczenie" name="nameSearch">
+    <label>Kara</label>
+    <input type="number" value=0 name="from">
+
+    <input type="number" value="1000" name="to">
+
+
+
+    <input type="submit" value="szukaj">
+
+
+
+</form>
+
+<div th:if="!${mandat.isEmpty()}">
+<table>
+    <tr><td><h1>Wykroczenie</h1></td><td><h1>Mandat</h1></td></tr>
+    <tr th:each="mandats: ${mandat}">
+        <td><a th:text="${mandats.getOffense()}" th:href="'Mandaty/' + ${mandats.getId()}"></a></td> <td><span th:each="penaltys: ${mandats.getPenaltyList()}" th:text="${penaltys.getOffensePrice()} + 'zł' "></span></td>
+    </tr>
+</table>
+
+<!--    <span id="zalacz">-->
+
+<!--        <a th:each="strony: ${strona}" th:href="${'Mandaty?a='+strony}" th:text="'[' + ${strony} + ']'"></a>-->
+
+<!--    </span>-->
+</div>
+<h1 th:inline="text">Hello [[${#httpServletRequest.remoteUser}]]!</h1>
+<form th:action="@{/logout}" method="post">
+    <input type="submit" value="Sign Out"/>
+</form>
+
+
+</body>
+</html>
